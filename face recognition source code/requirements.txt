@@ -142,7 +142,7 @@ pexpect==4.8.0
 pickle-mixin==1.0.2
 pickleshare==0.7.5
 Pillow @ file:///C:/ci/pillow_1603823068645/work
-pipenv==2020.11.4
+pipenv==2022.1.8
 pkginfo==1.6.1
 pluggy==0.13.1
 ply==3.11
